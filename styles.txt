@@ -1,13 +1,26 @@
-Header:
+Logo:
+background --> #C2C2B6 (subject to change)
 
 Sub-header:
+background --> #364045
 
 Hero:
+background --> #F2F2E3
 
 Product:
+background --> #F2F2E3
 
 Person:
+background --> #364045
 
 Social-Icon:
+background --> #F2F2E3
 
 Footer:
+background --> #F0F0E9 (subject to change)
+
+
+CSS rules to specify font-families:
+font-family: 'Montserrat', sans-serif; (for buttons)
+font-family: 'Raleway', sans-serif; (h1, h2, and h3 elements)
+font-family: 'Roboto', sans-serif; (p element)
