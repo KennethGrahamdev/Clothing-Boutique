@@ -1,4 +1,4 @@
-Logo:
+Header:
 background --> #C2C2B6 (subject to change)
 
 Sub-header:
@@ -24,3 +24,6 @@ CSS rules to specify font-families:
 font-family: 'Montserrat', sans-serif; (for buttons)
 font-family: 'Raleway', sans-serif; (h1, h2, and h3 elements)
 font-family: 'Roboto', sans-serif; (p element)
+
+Placeholder image:
+https://via.placeholder.com/468x60?text=Visit+Blogging.com+Now
