@@ -27,3 +27,6 @@ font-family: 'Roboto', sans-serif; (p element)
 
 Placeholder image:
 https://via.placeholder.com/468x60?text=Visit+Blogging.com+Now
+
+Hosted & compressed Images:
+https://i.postimg.cc/G90nNPL4/favpng-logo-e-commerce-compressed.png
