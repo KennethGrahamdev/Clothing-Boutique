@@ -10,7 +10,7 @@ background --> #F2F2E3
 Product:
 background --> #F2F2E3
 
-Person:
+Shipping:
 background --> #364045
 
 Social-Icon:
@@ -25,8 +25,5 @@ font-family: 'Montserrat', sans-serif; (for buttons)
 font-family: 'Raleway', sans-serif; (h1, h2, and h3 elements)
 font-family: 'Roboto', sans-serif; (p element)
 
-Placeholder image:
-https://via.placeholder.com/468x60?text=Visit+Blogging.com+Now
 
-Hosted & compressed Images:
-https://i.postimg.cc/G90nNPL4/favpng-logo-e-commerce-compressed.png
+
